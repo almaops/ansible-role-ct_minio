@@ -1,8 +1,8 @@
 ---
 galaxy_info:
-  author: AUTHORNAME
+  author: Valentin Gostev
   description: Ansible role does ...
-  role_name: ROLENAME
+  role_name: ct_minio
   namespace: almaops
   license: MIT
   min_ansible_version: 2.10
@@ -14,6 +14,9 @@ galaxy_info:
       versions:
         - all
   galaxy_tags:
-    - todo
+    - minio
+    - object
+    - storage
+    - s3
 dependencies: []
 ...
