@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: Valentin Gostev
-  description: Ansible role does ...
+  description: Ansible role deploys Minio container
   role_name: ct_minio
   namespace: almaops
   license: MIT
